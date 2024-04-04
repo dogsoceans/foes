@@ -84,8 +84,8 @@
     form { margin: 0; padding: 0; 
     }
 
-    .red { font-weight: bold; color: #dd2222; }
-    .green { font-weight: bold; color: #229922; }
+    .red { font-weight: bold; color: #229922 }
+    .green { font-weight: bold; color: #dd2222; } :: green is red and red is green for enemies
 
     a {
       display: inline-block;
