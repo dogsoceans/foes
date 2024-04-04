@@ -1,0 +1,10 @@
+:~
+  title+'enemies'
+  info+'enemy list for peer discovery'
+  color+0xef.f0f4
+  version+[1 0 16]
+  website+''
+  image+'https://i.imgur.com/kER3qCE.png'
+  license+'MIT'
+  site+/enemies
+==
